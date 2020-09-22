@@ -1,0 +1,32 @@
+:Base reportsfactoryhelp.hlp>main
+:Title Reports Factory Help
+1 Welcome to Reports Factory Help=IDH_welcome_to_reports_factory_help
+1 Welcome Screen
+2 Welcome Screen=IDH_welcome_screen
+1 New Report
+2 Step 1 - Choose Databases
+3 Choose Database=IDH_choose_database
+2 Step 2 - Select Tables
+3 Select Tables=IDH_select_tables
+2 Step 3 - Define Relationships / Connections
+3 Define Relationships / Connections=IDH_define_relationships___connections
+3 Select Primary Table
+4 Primary Table=IDH_primary_table
+1 Run / Delete Published Report Factory Template
+2 Run / Delete a published report=IDH_run_a_published_report
+2 Selecting A Published Report
+3 Selecting a published report=IDH_selecting_a_published_report
+1 View Report
+2 Filter Data=IDH_filter_data
+2 Group-By Data=IDH_group_by_data
+2 Column Heading Aliases=IDH_column_heading_aliases
+2 Adding / Deleting Columns=IDH_adding___deleting_columns
+2 Sort Data=IDH_sort_data
+2 Drag & Drop Columns=IDH_drag___drop_columns
+2 Set Font & Font Sizes=IDH_set_font___font_sizes
+2 Report Title=IDH_report_title
+2 Publish Report=IDH_publish_report
+1 Print Preview
+2 Print Preview=IDH_print_preview
+1 Copyrights
+1 Copyright Notice=IDH_copyright_notice
